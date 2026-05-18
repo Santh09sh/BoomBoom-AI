@@ -1,3 +1,7 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()  # Load GOOGLE_API_KEY and any future secrets from .env
+
 import speech_recognition as sr
 import subprocess
 import winsound

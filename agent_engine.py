@@ -1,6 +1,10 @@
 import nest_asyncio
 nest_asyncio.apply()
 
+import os
+from dotenv import load_dotenv
+load_dotenv()  # Load GOOGLE_API_KEY and any future secrets from .env
+
 import ollama
 import json
 import os

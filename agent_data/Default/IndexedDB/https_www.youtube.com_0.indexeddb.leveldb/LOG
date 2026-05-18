@@ -1,0 +1,13 @@
+2026/05/18-10:45:55.551 5efc Reusing MANIFEST C:\Users\Vishnu Reddy\OneDrive\Documents\SaaS\agent_data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/18-10:45:55.552 5efc Recovering log #15
+2026/05/18-10:45:55.558 5efc Reusing old log C:\Users\Vishnu Reddy\OneDrive\Documents\SaaS\agent_data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000015.log 
+2026/05/18-10:45:55.612 61c8 Level-0 table #20: started
+2026/05/18-10:45:55.622 61c8 Level-0 table #20: 875141 bytes OK
+2026/05/18-10:45:55.625 61c8 Delete type=0 #15
+2026/05/18-10:45:55.625 70f0 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/18-10:45:56.513 70f0 Compacting 1@1 + 1@2 files
+2026/05/18-10:45:56.522 70f0 Generated table #21@1: 332 keys, 35512 bytes
+2026/05/18-10:45:56.522 70f0 Compacted 1@1 + 1@2 files => 35512 bytes
+2026/05/18-10:45:56.525 70f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/18-10:45:56.526 70f0 Delete type=2 #17
+2026/05/18-10:45:56.526 70f0 Delete type=2 #20
